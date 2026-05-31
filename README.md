@@ -21,8 +21,9 @@ Responsável pela documentação do projeto e pela criação de elementos visuai
 ### Isabella Santos de Albuquerque Zanin
 Responsável pelo desenvolvimento dos cenários do jogo, incluindo composição visual dos ambientes e configuração das colisões.
 
+### Pedro Henrique Pedroso
+Responsável pelo desenvolvimento do sistema de diálogo e pela organização das narrativas e falas presentes no jogo. Também atuou na produção do vídeo pitch do projeto.
+
 ### Carolina Vitória Celso Nunes
 Responsável por auxiliar na composição dos cenários do jogo.
 
-### Pedro Henrique Pedroso
-Responsável pelo desenvolvimento do sistema de diálogo e pela organização das narrativas e falas presentes no jogo. Também atuou na produção do vídeo pitch do projeto.
