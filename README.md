@@ -21,7 +21,7 @@ Criação dos sprites dos personagens e desenvolvimento das animações utilizad
 Desenvolvimento dos cenários do jogo, composição visual dos ambientes e configuração das colisões.
 
 **Carolina Vitória Celso Nunes**  
-Produção e desenvolvimento do vídeo pitch do projeto.
+Produção e desenvolvimento do vídeo pitch do projeto e documentação.
 
 **Pedro Henrique Pedroso**  
 Desenvolvimento do sistema de diálogo e escrita e organização dos diálogos presentes no jogo.
