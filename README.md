@@ -13,7 +13,7 @@ Além da parte técnica, o projeto também busca construir atmosfera através de
 ## 👥 Créditos da Equipe de Desenvolvimento
 
 ### Ana Luiza Santos do Nascimento
-Responsável pela programação geral do projeto, incluindo a lógica principal, interações com objetos, progressão por etapas, mecânicas do jogo e integração dos sistemas. Também atuou na realização de testes e na implementação de ajustes em diferentes áreas do projeto sempre que necessário.
+Responsável pela programação geral do projeto, incluindo a lógica principal, interações com objetos, progressão por etapas, mecânicas do jogo e integração dos sistemas. Também atuou na realização de testes e na implementação de ajustes em diferentes áreas do projeto sempre que necessário, além de ser responsável pela criação e organização do repositório do projeto no GitHub.
 
 ### Bianca Arisa Ferreira Machino
 Responsável pela documentação do projeto e pela criação de elementos visuais, incluindo sprites dos personagens e apoio no desenvolvimento de cenários e animações utilizadas no jogo.
@@ -22,7 +22,7 @@ Responsável pela documentação do projeto e pela criação de elementos visuai
 Responsável pelo desenvolvimento dos cenários do jogo, incluindo composição visual dos ambientes e configuração das colisões.
 
 ### Carolina Vitória Celso Nunes
-Responsável por auxiliar na criação e composição dos cenários do jogo.
+Responsável por auxiliar na composição dos cenários do jogo.
 
 ### Pedro Henrique Pedroso
 Responsável pelo desenvolvimento do sistema de diálogo e pela organização das narrativas e falas presentes no jogo. Também atuou na produção do vídeo pitch do projeto.
