@@ -9,3 +9,19 @@ A proposta de *Illure* é combinar exploração com narrativa visual, criando um
 O projeto foi desenvolvido em Godot utilizando GDScript e organizado em cenas, scripts e assets próprios integrados ao ambiente do jogo.
 A lógica principal é controlada por um sistema global de etapas que gerencia a evolução da narrativa, objetivos ativos, diálogos, visibilidade de personagens e interações com objetos colecionáveis.
 Além da parte técnica, o projeto também busca construir atmosfera através de pixel art, iluminação e elementos interativos distribuídos pelo mapa.
+
+## Créditos
+**Ana Luiza Santos do Nascimento**  
+Programação geral do projeto, incluindo lógica principal, interações com objetos, progressão por etapas, mecânicas do jogo e integração dos sistemas.
+
+**Bianca Arisa Ferreira Machino**  
+Criação dos sprites dos personagens e desenvolvimento das animações utilizadas durante o jogo.
+
+**Isabella Santos de Albuquerque Zanin**  
+Desenvolvimento dos cenários do jogo, composição visual dos ambientes e configuração das colisões.
+
+**Carolina Vitória Celso Nunes**  
+Produção e desenvolvimento do vídeo pitch do projeto.
+
+**Pedro Henrique Pedroso**  
+Desenvolvimento do sistema de diálogo e escrita e organização dos diálogos presentes no jogo.
