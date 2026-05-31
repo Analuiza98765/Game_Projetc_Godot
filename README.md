@@ -10,18 +10,19 @@ O projeto foi desenvolvido em Godot utilizando GDScript e organizado em cenas, s
 A lógica principal é controlada por um sistema global de etapas que gerencia a evolução da narrativa, objetivos ativos, diálogos, visibilidade de personagens e interações com objetos colecionáveis.
 Além da parte técnica, o projeto também busca construir atmosfera através de pixel art, iluminação e elementos interativos distribuídos pelo mapa.
 
-## Créditos
-**Ana Luiza Santos do Nascimento**  
-Programação geral do projeto, incluindo lógica principal, interações com objetos, progressão por etapas, mecânicas do jogo e integração dos sistemas.
+## 👥 Créditos da Equipe de Desenvolvimento
 
-**Bianca Arisa Ferreira Machino**  
-Criação dos sprites dos personagens e desenvolvimento das animações utilizadas durante o jogo.
+### Ana Luiza Santos do Nascimento
+Responsável pela programação geral do projeto, incluindo a lógica principal, interações com objetos, progressão por etapas, mecânicas do jogo e integração dos sistemas. Também atuou na realização de testes e na implementação de ajustes em diferentes áreas do projeto sempre que necessário.
 
-**Isabella Santos de Albuquerque Zanin**  
-Desenvolvimento dos cenários do jogo, composição visual dos ambientes e configuração das colisões.
+### Bianca Arisa Ferreira Machino
+Responsável pela documentação do projeto e pela criação de elementos visuais, incluindo sprites dos personagens e apoio no desenvolvimento de cenários e animações utilizadas no jogo.
 
-**Carolina Vitória Celso Nunes**  
-Produção e desenvolvimento do vídeo pitch do projeto e documentação.
+### Isabella Santos de Albuquerque Zanin
+Responsável pelo desenvolvimento dos cenários do jogo, incluindo composição visual dos ambientes e configuração das colisões.
 
-**Pedro Henrique Pedroso**  
-Desenvolvimento do sistema de diálogo e escrita e organização dos diálogos presentes no jogo.
+### Carolina Vitória Celso Nunes
+Responsável por auxiliar na criação e composição dos cenários do jogo.
+
+### Pedro Henrique Pedroso
+Responsável pelo desenvolvimento do sistema de diálogo e pela organização das narrativas e falas presentes no jogo. Também atuou na produção do vídeo pitch do projeto.
